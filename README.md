@@ -30,7 +30,7 @@
 
 [![Watch the Project Walkthrough](https://img.shields.io/badge/▶%20Watch%20Full%20Walkthrough-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1yR5E9_BT7HF8LrNZF_bs5nRINXy1QSxs/view?usp=sharing)
 
-> 🎥 **A complete end-to-end video explanation** of the project — covering methodology, model building, gradient descent implementation, results, and business insights.
+> 🎥 **A complete end-to-end video explanation** of the project — covering data preparation, model building, imbalance handling, and the final deployment recommendation.
 >
 > 📌 *Click the button above or [open the video directly →](https://drive.google.com/file/d/1yR5E9_BT7HF8LrNZF_bs5nRINXy1QSxs/view?usp=sharing)*
 
