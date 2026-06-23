@@ -4,7 +4,7 @@
 
 <br>
 
-![Project Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2E74B5,100:1F4E79&height=200&section=header&text=Risk%20Alert%20Classifier&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Identifying%20High-Risk%20Banking%20Customers%20using%20Ensemble%20ML%20%26%20Imbalance%20Handling&descAlignY=58&descAlign=50)
+![Project Banner](https://capsule-render.vercel.app/api?type=waving&color=0:2E74B5,100:1F4E79&height=200&section=header&text=Risk%20Alert%20Classifier&fontSize=42&fontColor=ffffff)
 
 <br>
 
